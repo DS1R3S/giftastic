@@ -1,0 +1,7 @@
+API Key: 9GBZaJDhdxiQAnCyGtR1Ia6VuHXcMSkF
+
+https://api.giphy.com/v1/gifs/search?api_key=&q=&limit=25&offset=0&rating=G&lang=en
+
+'=&q=&limit=25&offset=0&rating=G&lang=en'
+
+https://api.giphy.com/v1/gifs/search?api_key=&q=drake&limit=25&offset=0&rating=G&lang=en

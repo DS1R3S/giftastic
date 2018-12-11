@@ -1,0 +1,10 @@
+.btn {
+    margin: 2px;
+}
+
+#card-section{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
